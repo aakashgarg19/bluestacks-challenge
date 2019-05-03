@@ -1,0 +1,14 @@
+<div class="header">
+  <div class="companyLogo">
+    <img src="../../../assets/imgs/companylogo.PNG" alt="Company Logo">
+  </div>
+  <div class="language">
+    <select [(ngModel)]="selectedLanguage" (change)="changeLanguage()">
+      <option value="en">English</option>
+      <option value="fr">French</option>
+    </select>
+  </div>
+  <div class="hamBurger">
+    <i class="fas fa-bars"></i>
+  </div>
+</div>

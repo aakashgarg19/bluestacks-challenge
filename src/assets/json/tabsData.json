@@ -1,0 +1,43 @@
+{
+  "P": [
+    {
+      "date": "2017-05-01",
+      "campaign": "Test Whatsapp",
+      "countryCode": "US"
+    },
+    {
+      "date": "2016-04-17",
+      "campaign": "Test Whatsapp 2",
+      "countryCode": "JP"
+    },
+    {
+      "date": "2016-04-17",
+      "campaign": "Super Jewels Quest",
+      "countryCode": "CA, FR"
+    }
+  ],
+  "U": [
+    {
+      "date": "2019-05-08",
+      "campaign": "Upcoming 1",
+      "countryCode": "US"
+    },
+    {
+      "date": "2019-06-17",
+      "campaign": "Upcoming 2",
+      "countryCode": "JP"
+    }
+  ],
+  "L": [
+    {
+      "date": "2019-05-04",
+      "campaign": "Live 1",
+      "countryCode": "US"
+    },
+    {
+      "date": "2019-05-04",
+      "campaign": "Live 2",
+      "countryCode": "JP"
+    }
+  ]
+}
